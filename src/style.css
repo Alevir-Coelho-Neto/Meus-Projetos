@@ -1,12 +1,70 @@
 body{
-    background-color: #333333;
+    background-color: #463150;
 }
 
-h1{
-    color: white;
-    text-decoration: underline;
-    text-align: center;
-    font-size: 45px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: oblique;
+#principal{
+    max-width: 1522px;
 }
+
+#oi-eu-sou{
+    color:#E0E0E0;
+    position: fixed;
+    top: 120px;
+    left: 160px;
+    font-size: 30px;
+    font-family:'Quicksand', sans-serif;
+}
+
+#frontend{
+    color: white;
+    position: fixed;
+    top: 35px;
+    left: 140px;
+    font-family:'Kanit', sans-serif;
+    font-size: 180px;
+    
+
+}
+
+#developer{
+    color: white;
+    position: fixed;
+    top: 179px;
+    left: 140px;
+    font-family:'Kanit', sans-serif;
+    font-size: 180px;
+}
+
+#linkedin{
+    position: fixed;
+    top: 250px;
+    left: 790px;
+}
+
+#github{
+    position: fixed;
+    top: 250px;
+    left: 860px;
+}
+
+#curriculo{
+    font-size: 40px;
+    position: fixed;
+    top: 243px;
+    left: 920px;
+}
+
+#sobre-mim{
+    color: white;
+    font-family:'Quicksand', sans-serif;
+    position: fixed;
+    top: 480px;
+    left: 630px;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+}
+
